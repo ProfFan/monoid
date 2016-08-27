@@ -1,5 +1,5 @@
 StartChar: yen
-Encoding: 165 165 430
+Encoding: 100 165 430
 GlifName: yen
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: 0 21G<512 640> 384 120<256 512 640 896> 648 120<256 396 756 896> 1388 20G
 VStem: 113 125<1293.75 1408> 512 128<0 384 504 630> 914 125<1293.75 1408>
 CounterMasks: 1 0e
 LayerCount: 5
-Back
 Fore
 SplineSet
 113 1408 m 1
@@ -40,7 +39,4 @@ SplineSet
  245 970 163 1185 113 1408 c 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

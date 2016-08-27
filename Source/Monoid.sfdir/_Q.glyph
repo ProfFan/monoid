@@ -1,5 +1,5 @@
 StartChar: Q
-Encoding: 81 81 44
+Encoding: 49 81 44
 GlifName: Q_
 Width: 1024
 VWidth: 0
@@ -101,8 +101,6 @@ SplineSet
  912 816 911 923 887 1026 c 0
  851 1178 748 1304 576 1304 c 0
 EndSplineSet
-Layer: 3
-Layer: 4
 Position2: "Single Positioning lookup 23 subtable" dx=128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 21 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 20 subtable" dx=0 dy=0 dh=0 dv=0

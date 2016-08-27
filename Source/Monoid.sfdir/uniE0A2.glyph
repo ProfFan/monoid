@@ -1,5 +1,5 @@
 StartChar: uniE0A2
-Encoding: 57506 57506 602
+Encoding: 613 57506 602
 GlifName: uniE_0A_2
 Width: 1024
 VWidth: 0
@@ -55,6 +55,4 @@ SplineSet
  384 128 l 5
  384 768 l 5
 EndSplineSet
-Layer: 3
-Layer: 4
 EndChar

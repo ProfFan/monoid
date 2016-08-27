@@ -1,5 +1,5 @@
 StartChar: uni018F
-Encoding: 399 399 608
+Encoding: 320 399 608
 GlifName: uni018F_
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<438.425 713.575> 648 120<240 912> 1304 120<182.461 666.232>
 VStem: 112 128<384.771 648> 912 128<355.031 648 768 1032.05>
 LayerCount: 5
-Back
 Fore
 SplineSet
 240 648 m 1
@@ -31,7 +30,4 @@ SplineSet
  912 768 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

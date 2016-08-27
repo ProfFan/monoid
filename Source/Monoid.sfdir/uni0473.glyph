@@ -1,5 +1,5 @@
 StartChar: uni0473
-Encoding: 1139 1139 394
+Encoding: 548 1139 394
 GlifName: uni0473
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<459.533 692.467> 512 120<355 797> 920 120<459.533 692.467>
 VStem: 224 128<231.317 512 632 792.683> 800 128<231.317 512 632 792.683>
 LayerCount: 5
-Back
 Fore
 SplineSet
 352 512 m 1
@@ -33,7 +32,4 @@ SplineSet
  310 945 416 1040 576 1040 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

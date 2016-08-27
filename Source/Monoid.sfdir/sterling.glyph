@@ -1,5 +1,5 @@
 StartChar: sterling
-Encoding: 163 163 433
+Encoding: 98 163 433
 GlifName: sterling
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 0 120<128 256 384 896> 648 120<128 256 384 768> 1304 120<496.183 861.672>
 VStem: 256 128<120 648 768 1175.04>
 LayerCount: 5
-Back
 Fore
 SplineSet
 256 120 m 1
@@ -35,7 +34,4 @@ SplineSet
  256 120 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

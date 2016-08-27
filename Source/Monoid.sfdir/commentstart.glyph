@@ -1,5 +1,5 @@
 StartChar: commentstart
-Encoding: 1114143 -1 634
+Encoding: 640 -1 633
 GlifName: commentend
 Width: 1024
 VWidth: 0
@@ -45,7 +45,4 @@ SplineSet
  -1616 213 -1557 272 -1472 272 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

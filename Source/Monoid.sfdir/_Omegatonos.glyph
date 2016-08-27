@@ -1,5 +1,5 @@
 StartChar: Omegatonos
-Encoding: 911 911 564
+Encoding: 385 911 564
 GlifName: O_megatonos
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 0 120<128 292 860 1024> 1304 120<423.945 728.055>
 VStem: 112 128<450.222 1095.8> 912 128<450.222 1095.8>
 LayerCount: 5
-Back
 Fore
 SplineSet
 61 1438 m 1
@@ -44,7 +43,4 @@ SplineSet
  1035 1027 1040 926 1040 832 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

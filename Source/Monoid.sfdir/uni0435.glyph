@@ -1,5 +1,5 @@
 StartChar: uni0435
-Encoding: 1077 1077 356
+Encoding: 502 1077 356
 GlifName: uni0435
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: -16 120<469.07 891.106> 512 120<354 798> 920 120<452.408 699.592>
 VStem: 224 128<232.957 512 632 808.17> 798 130<632 812.653>
 AnchorPoint: "top" 576 1024 basechar 0
 LayerCount: 5
-Back
 Fore
 SplineSet
 576 920 m 0
@@ -32,7 +31,4 @@ SplineSet
  303 951 414 1040 576 1040 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

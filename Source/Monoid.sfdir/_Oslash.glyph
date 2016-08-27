@@ -1,5 +1,5 @@
 StartChar: Oslash
-Encoding: 216 216 123
+Encoding: 151 216 123
 GlifName: O_slash
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<437.651 710.509> 1304 120<441.491 714.349>
 VStem: 112 128<349.87 1053.57> 912 128<354.432 1058.13>
 LayerCount: 5
-Back
 Fore
 SplineSet
 344 215 m 1
@@ -41,7 +40,4 @@ SplineSet
  754 1260 677 1304 576 1304 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

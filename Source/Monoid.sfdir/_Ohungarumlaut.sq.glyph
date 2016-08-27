@@ -1,12 +1,11 @@
 StartChar: Ohungarumlaut.sq
-Encoding: 1114223 -1 715
+Encoding: 720 -1 714
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: -16 120<434.494 717.506> 1176 120<434.494 717.506> 1408 21G<296 446.969 680 830.969>
 VStem: 112 128<345.017 934.983> 912 128<345.017 934.983>
 LayerCount: 5
-Back
 Fore
 SplineSet
 576 1176 m 4
@@ -39,7 +38,4 @@ SplineSet
  296 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

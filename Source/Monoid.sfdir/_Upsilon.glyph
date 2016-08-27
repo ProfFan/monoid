@@ -1,5 +1,5 @@
 StartChar: Upsilon
-Encoding: 933 933 481
+Encoding: 406 933 481
 GlifName: U_psilon
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: 0 21G<512 640> 1388 20G<100 280.5 871.5 1052>
 VStem: 512 128<0 661.578>
 AnchorPoint: "top" 576 1408 basechar 0
 LayerCount: 5
-Back
 Fore
 SplineSet
 586 741 m 1
@@ -24,7 +23,4 @@ SplineSet
  586 741 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

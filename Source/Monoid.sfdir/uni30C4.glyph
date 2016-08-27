@@ -1,5 +1,5 @@
 StartChar: uni30C4
-Encoding: 12484 12484 760
+Encoding: 610 12484 759
 Width: 1024
 VWidth: 0
 Flags: W
@@ -84,7 +84,4 @@ SplineSet
   EndSpiro
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,5 +1,5 @@
 StartChar: zero
-Encoding: 48 48 70
+Encoding: 16 48 70
 GlifName: zero
 Width: 1024
 VWidth: 0
@@ -266,7 +266,6 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Layer: 4
 Substitution2: "'ss04' Style Set 4 lookup 105 subtable" zero.clear
 Substitution2: "'ss03' Style Set 3 lookup 104 subtable" zero.dot
 EndChar

@@ -1,5 +1,5 @@
 StartChar: delta
-Encoding: 948 948 552
+Encoding: 421 948 552
 GlifName: delta
 Width: 1024
 VWidth: 0
@@ -127,5 +127,4 @@ SplineSet
  924.606445312 647.666992188 928 547.721679688 928 458 c 6
  928 268 l 5
 EndSplineSet
-Layer: 4
 EndChar

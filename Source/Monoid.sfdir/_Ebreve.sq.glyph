@@ -1,12 +1,11 @@
 StartChar: Ebreve.sq
-Encoding: 1114206 -1 698
+Encoding: 703 -1 697
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 0 120<384 1024> 648 120<384 896> 1160 120<384 1024> 1392 120<435.067 716.933>
 VStem: 236 128<1576.51 1664> 256 128<120 648 768 1160> 788 128<1576.51 1664>
 LayerCount: 5
-Back
 Fore
 SplineSet
 256 1280 m 5xf6
@@ -31,7 +30,4 @@ SplineSet
  719 1512 788 1578 788 1664 c 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

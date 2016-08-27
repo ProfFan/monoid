@@ -1,12 +1,11 @@
 StartChar: Jcircumflex.sq
-Encoding: 1114217 -1 709
+Encoding: 714 -1 708
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: -12 120<389.689 724.704> 1160 120<256 896> 1408 21G<200 384.585 767.415 952>
 VStem: 896 128<282.009 1160>
 LayerCount: 5
-Back
 Fore
 SplineSet
 896 1160 m 5
@@ -32,7 +31,4 @@ SplineSet
  497 1664 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

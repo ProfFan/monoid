@@ -1,5 +1,5 @@
 StartChar: ampersand
-Encoding: 38 38 61
+Encoding: 6 38 61
 GlifName: ampersand
 Width: 1024
 VWidth: 0
@@ -235,7 +235,6 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Layer: 4
 Substitution2: "Single Substitution lookup 76 subtable" ampersand.method
 Substitution2: "Single Substitution lookup 75 subtable" liga1
 Substitution2: "Single Substitution lookup 74 subtable" ampamp

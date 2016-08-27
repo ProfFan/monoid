@@ -1,12 +1,11 @@
 StartChar: greaterequalliga
-Encoding: 1114131 -1 624
+Encoding: 628 -1 623
 GlifName: greaterequalliga
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 132 120<-640 768>
 LayerCount: 5
-Back
 Fore
 SplineSet
 -640 252 m 1
@@ -25,7 +24,4 @@ SplineSet
  557 773 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

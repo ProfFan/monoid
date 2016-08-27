@@ -1,5 +1,5 @@
 StartChar: q
-Encoding: 113 113 17
+Encoding: 81 113 17
 GlifName: q
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: -16 120<461.907 651.996> 920 120<461.907 651.996> 1004 20G<768 896>
 VStem: 224 128<237.748 786.252> 768 128<-384 125 237.626 786.374 899 1024>
 AnchorPoint: "top" 576 1024 basechar 0
 LayerCount: 5
-Back
 Fore
 SplineSet
 540 -16 m 0xb8
@@ -36,9 +35,6 @@ SplineSet
  404 177 464 104 560 104 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 Position2: "Single Positioning lookup 19 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=0 dy=0 dh=0 dv=0

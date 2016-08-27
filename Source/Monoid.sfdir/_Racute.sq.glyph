@@ -1,12 +1,11 @@
 StartChar: Racute.sq
-Encoding: 1114224 -1 716
+Encoding: 721 -1 715
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 0 21G<256 384 920.085 1065> 512 120<384 697.454> 1160 120<384 785.97> 1408 21G<488 638.969>
 VStem: 256 128<0 512 632 1160> 912 128<757.814 1034.03>
 LayerCount: 5
-Back
 Fore
 SplineSet
 605 1280 m 2
@@ -37,7 +36,4 @@ SplineSet
  488 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

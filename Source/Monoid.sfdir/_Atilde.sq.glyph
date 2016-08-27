@@ -1,12 +1,11 @@
 StartChar: Atilde.sq
-Encoding: 1114176 -1 668
+Encoding: 673 -1 667
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 0 21G<105 246.5 905.5 1047> 384 120<342 810> 1412 120<637.402 751.423> 1540 120<400.597 514.598>
 VStem: 253 128<1433 1527.42> 771 128<1544.67 1639>
 LayerCount: 5
-Back
 Fore
 SplineSet
 581 1139 m 5
@@ -34,7 +33,4 @@ SplineSet
  558 1412 525 1540 448 1540 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

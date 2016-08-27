@@ -1,5 +1,5 @@
 StartChar: uni0432
-Encoding: 1074 1074 353
+Encoding: 499 1074 353
 GlifName: uni0432
 Width: 1024
 VWidth: 0
@@ -73,7 +73,4 @@ SplineSet
  256 0 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

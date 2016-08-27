@@ -1,12 +1,11 @@
 StartChar: lessequalliga
-Encoding: 1114130 -1 623
+Encoding: 627 -1 622
 GlifName: lessequalliga
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 132 120<-640 768>
 LayerCount: 5
-Back
 Fore
 SplineSet
 768 252 m 1
@@ -25,7 +24,4 @@ SplineSet
  -429 773 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

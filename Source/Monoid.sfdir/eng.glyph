@@ -1,5 +1,5 @@
 StartChar: eng
-Encoding: 331 331 246
+Encoding: 266 331 246
 GlifName: eng
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -272 120<514.225 729.418> 0 21G<256 384> 920 120<488.173 688.755> 1004 20G<256 384>
 VStem: 256 128<0 843.099 912 1024> 768 128<-111.68 841.255>
 LayerCount: 5
-Back
 Fore
 SplineSet
 596 1040 m 0xec
@@ -35,7 +34,4 @@ SplineSet
  443 989 520 1040 596 1040 c 0xec
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

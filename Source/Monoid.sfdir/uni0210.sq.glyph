@@ -1,12 +1,11 @@
 StartChar: uni0210.sq
-Encoding: 1114249 -1 741
+Encoding: 746 -1 740
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 0 21G<256 384 920.085 1065> 512 120<384 697.454> 1160 120<384 785.97> 1408 21G<321.031 472 705.031 856>
 VStem: 256 128<0 512 632 1160> 912 128<757.907 1034.03>
 LayerCount: 5
-Back
 Fore
 SplineSet
 605 1280 m 2
@@ -42,7 +41,4 @@ SplineSet
  856 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

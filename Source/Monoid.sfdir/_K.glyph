@@ -1,5 +1,5 @@
 StartChar: K
-Encoding: 75 75 39
+Encoding: 43 75 39
 GlifName: K_
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: 0 21G<128 256 890.881 1062> 1388 20G<128 256 813.338 969>
 VStem: 128 128<0 558 719 1408>
 AnchorPoint: "bottom" 576 0 basechar 0
 LayerCount: 5
-Back
 Fore
 SplineSet
 256 0 m 1
@@ -42,6 +41,4 @@ SplineSet
 320 520 m 5
  1152 1806 l 1029
 EndSplineSet
-Layer: 3
-Layer: 4
 EndChar

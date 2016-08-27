@@ -1,5 +1,5 @@
 StartChar: R
-Encoding: 82 82 45
+Encoding: 50 82 45
 GlifName: R_
 Width: 1024
 VWidth: 0
@@ -9,7 +9,6 @@ VStem: 256 128<0 520 640 1288> 912 128<811.269 1116.73>
 AnchorPoint: "bottom" 704 0 basechar 0
 AnchorPoint: "top" 576 1408 basechar 0
 LayerCount: 5
-Back
 Fore
 SplineSet
 912 964 m 0
@@ -60,8 +59,6 @@ SplineSet
  769.30078125 0 l 5
  534.4140625 641.071289062 l 5
 EndSplineSet
-Layer: 3
-Layer: 4
 Position2: "Single Positioning lookup 23 subtable" dx=128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 21 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 20 subtable" dx=0 dy=0 dh=0 dv=0

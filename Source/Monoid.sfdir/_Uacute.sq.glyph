@@ -1,12 +1,11 @@
 StartChar: Uacute.sq
-Encoding: 1114194 -1 686
+Encoding: 691 -1 685
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: -16 120<426.462 725.475> 1408 21G<488 638.969>
 VStem: 128 128<277.329 1280> 896 128<277.329 1280>
 LayerCount: 5
-Back
 Fore
 SplineSet
 128 1280 m 1
@@ -31,7 +30,4 @@ SplineSet
  488 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,5 +1,5 @@
 StartChar: U
-Encoding: 85 85 48
+Encoding: 53 85 48
 GlifName: U_
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: -16 120<426.462 725.475> 1388 20G<128 256 896 1024>
 VStem: 128 128<277.329 1408> 896 128<277.329 1408>
 AnchorPoint: "top" 576 1408 basechar 0
 LayerCount: 5
-Back
 Fore
 SplineSet
 128 1408 m 1
@@ -58,7 +57,6 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Layer: 4
 Position2: "Single Positioning lookup 23 subtable" dx=128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 21 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 20 subtable" dx=0 dy=0 dh=0 dv=0

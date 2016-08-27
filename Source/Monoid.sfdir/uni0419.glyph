@@ -1,5 +1,5 @@
 StartChar: uni0419
-Encoding: 1049 1049 328
+Encoding: 474 1049 328
 GlifName: uni0419
 Width: 1024
 VWidth: 0
@@ -35,7 +35,4 @@ Fore
 Refer: 298 774 N 1 0 0 1 0 256 2
 Refer: 327 1048 N 1 0 0 1 0 0 3
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,5 +1,5 @@
 StartChar: abreve
-Encoding: 259 259 170
+Encoding: 194 259 170
 GlifName: abreve
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<428.964 640.666> 0 21G<768 896> 512 110<432.381 768> 920 120<324.118 730.059> 1136 120<435.067 716.933> 1388 20G<236 364 788 916>
 VStem: 224 128<180.598 428.043> 236 128<1320.51 1408> 768 128<0 123 238.75 512 622 881.269> 788 128<1320.51 1408>
 LayerCount: 5
-Back
 Fore
 SplineSet
 768 512 m 1xbe80
@@ -44,7 +43,4 @@ SplineSet
  719 1256 788 1322 788 1408 c 1x3d40
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

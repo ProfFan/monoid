@@ -1,5 +1,5 @@
 StartChar: uniE00B
-Encoding: 57355 57355 499
+Encoding: -1 57355 499
 GlifName: dollar.alt
 Width: 1920
 VWidth: 0
@@ -40,7 +40,4 @@ SplineSet
 EndSplineSet
 Fore
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,12 +1,11 @@
 StartChar: Cacute.sq
-Encoding: 1114200 -1 692
+Encoding: 697 -1 691
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: -16 120<471.22 1018.69> 1176 120<468.766 988.93> 1408 21G<552 702.969>
 VStem: 112 128<375.486 904.514>
 LayerCount: 5
-Back
 Fore
 SplineSet
 653 1296 m 0
@@ -31,7 +30,4 @@ SplineSet
  552 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,12 +1,11 @@
 StartChar: Omacron.sq
-Encoding: 1114221 -1 713
+Encoding: 718 -1 712
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: -16 120<434.494 717.506> 1176 120<434.494 717.506> 1412 120<256 896>
 VStem: 112 128<345.017 934.983> 912 128<345.017 934.983>
 LayerCount: 5
-Back
 Fore
 SplineSet
 576 1176 m 4
@@ -34,7 +33,4 @@ SplineSet
  256 1532 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

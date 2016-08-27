@@ -1,5 +1,5 @@
 StartChar: T
-Encoding: 84 84 47
+Encoding: 52 84 47
 GlifName: T_
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: 0 21G<512 640> 1288 120<128 512 640 1024>
 VStem: 512 128<0 1288>
 AnchorPoint: "top" 576 1408 basechar 0
 LayerCount: 5
-Back
 Fore
 SplineSet
 1024 1408 m 1
@@ -22,7 +21,4 @@ SplineSet
  1024 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

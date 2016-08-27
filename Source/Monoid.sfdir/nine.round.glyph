@@ -1,5 +1,5 @@
 StartChar: nine.round
-Encoding: 1114169 -1 663
+Encoding: 666 -1 662
 GlifName: nine.straighter
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<292.767 664.765> 496 120<443.892 667.21> 1304 120<441.627 678.287>
 VStem: 224 128<722.689 1197.76> 768 128<226.158 621 723.814 1196.19>
 LayerCount: 5
-Back
 Fore
 SplineSet
 560 1304 m 4
@@ -35,7 +34,4 @@ SplineSet
  288 124 l 5
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

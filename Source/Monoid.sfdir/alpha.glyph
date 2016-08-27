@@ -1,5 +1,5 @@
 StartChar: alpha
-Encoding: 945 945 518
+Encoding: 418 945 518
 GlifName: alpha
 Width: 1024
 VWidth: 0
@@ -9,7 +9,6 @@ VStem: 224 128<237.748 786.252> 768 128<237.626 786.374 899 1024>
 AnchorPoint: "bottom" 704 0 basechar 0
 AnchorPoint: "top" 576 1024 basechar 0
 LayerCount: 5
-Back
 Fore
 SplineSet
 775 118 m 5xb8
@@ -40,7 +39,4 @@ SplineSet
  716 847 656 920 560 920 c 4
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

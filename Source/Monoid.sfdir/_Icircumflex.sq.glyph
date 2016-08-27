@@ -1,12 +1,11 @@
 StartChar: Icircumflex.sq
-Encoding: 1114185 -1 677
+Encoding: 682 -1 676
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 0 120<256 512 640 896> 1160 120<256 512 640 896> 1408 21G<200 384.585 767.415 952>
 VStem: 512 128<120 1160>
 LayerCount: 5
-Back
 Fore
 SplineSet
 896 1280 m 5
@@ -32,7 +31,4 @@ SplineSet
  497 1664 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

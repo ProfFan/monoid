@@ -1,12 +1,11 @@
 StartChar: Ubreve.sq
-Encoding: 1114232 -1 724
+Encoding: 729 -1 723
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: -16 120<426.462 725.475> 1392 120<435.067 716.933>
 VStem: 128 128<277.329 1280> 236 128<1576.51 1664> 788 128<1576.51 1664> 896 128<277.329 1280>
 LayerCount: 5
-Back
 Fore
 SplineSet
 128 1280 m 1xe4
@@ -33,7 +32,4 @@ SplineSet
  719 1512 788 1578 788 1664 c 1xd8
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

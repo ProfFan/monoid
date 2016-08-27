@@ -1,5 +1,5 @@
 StartChar: xi
-Encoding: 958 958 554
+Encoding: 431 958 554
 GlifName: xi
 Width: 1024
 VWidth: 0
@@ -66,7 +66,4 @@ SplineSet
  224 646 285 751 387 827 c 1xf4
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

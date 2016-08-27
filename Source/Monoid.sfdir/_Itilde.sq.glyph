@@ -1,5 +1,5 @@
 StartChar: Itilde.sq
-Encoding: 1114213 -1 705
+Encoding: 710 -1 704
 Width: 1024
 VWidth: 0
 Flags: W
@@ -7,7 +7,6 @@ HStem: 0 120<256 512 640 896> 1160 120<256 512 640 896> 1412 120<637.402 751.423
 VStem: 253 128<1433 1527.42> 512 128<120 1160> 771 128<1544.67 1639>
 CounterMasks: 1 0e
 LayerCount: 5
-Back
 Fore
 SplineSet
 896 1280 m 5
@@ -34,7 +33,4 @@ SplineSet
  558 1412 525 1540 448 1540 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

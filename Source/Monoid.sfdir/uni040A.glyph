@@ -1,5 +1,5 @@
 StartChar: uni040A
-Encoding: 1034 1034 413
+Encoding: 459 1034 413
 GlifName: uni040A_
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 0 120<640 790.131> 648 120<256 512 640 790.131> 1388 20G<128 256 512 640>
 VStem: 128 128<0 648 768 1408> 512 128<120 648 768 1408> 912 128<244.266 523.734>
 LayerCount: 5
-Back
 Fore
 SplineSet
 640 120 m 1
@@ -35,7 +34,4 @@ SplineSet
  128 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

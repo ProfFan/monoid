@@ -1,12 +1,11 @@
 StartChar: Gbreve.sq
-Encoding: 1114210 -1 702
+Encoding: 707 -1 701
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: -16 120<471.22 893.413> 640 120<640 896> 1176 120<468.766 988.93> 1392 120<499.067 780.933>
 VStem: 112 128<375.486 904.514> 300 128<1576.51 1664> 852 128<1576.51 1664> 896 128<119.186 640>
 LayerCount: 5
-Back
 Fore
 SplineSet
 653 1296 m 4xfd
@@ -37,7 +36,4 @@ SplineSet
  783 1512 852 1578 852 1664 c 1xfe
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

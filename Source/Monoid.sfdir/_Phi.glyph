@@ -1,5 +1,5 @@
 StartChar: Phi
-Encoding: 934 934 482
+Encoding: 407 934 482
 GlifName: P_hi
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: 0 21G<512 640> 115 122<411.205 512 640 740.795> 1171 122<411.205 512 640 
 VStem: 112 128<437.317 970.683> 512 128<0 118.594 237 1171 1289.41 1408> 912 128<437.317 970.683>
 CounterMasks: 1 0e
 LayerCount: 5
-Back
 Fore
 SplineSet
 640 237 m 1
@@ -40,7 +39,4 @@ SplineSet
  116 515 112 612 112 704 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

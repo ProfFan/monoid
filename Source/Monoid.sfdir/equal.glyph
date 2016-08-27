@@ -1,12 +1,11 @@
 StartChar: equal
-Encoding: 61 61 83
+Encoding: 29 61 83
 GlifName: equal
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 260 120<256 896> 772 120<256 896>
 LayerCount: 5
-Back
 Fore
 SplineSet
 256 380 m 5
@@ -21,9 +20,6 @@ SplineSet
  256 892 l 5
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 Substitution2: "Single Substitution lookup 101 subtable" equal.wide
 Substitution2: "Single Substitution lookup 63 subtable" equalcompare
 Substitution2: "Single Substitution lookup 62 subtable" liga20

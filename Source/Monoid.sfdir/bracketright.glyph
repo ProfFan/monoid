@@ -1,5 +1,5 @@
 StartChar: bracketright
-Encoding: 93 93 88
+Encoding: 61 93 88
 GlifName: bracketright
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -128 120<256 640> 1416 120<256 640>
 VStem: 640 128<-8 1416>
 LayerCount: 5
-Back
 Fore
 SplineSet
 768 1536 m 1
@@ -21,7 +20,4 @@ SplineSet
  768 1536 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

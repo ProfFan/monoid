@@ -1,12 +1,11 @@
 StartChar: greaterequal
-Encoding: 8805 8805 568
+Encoding: 604 8805 568
 GlifName: greaterequal
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 132 120<128 1024>
 LayerCount: 5
-Back
 Fore
 SplineSet
 128 252 m 1
@@ -25,7 +24,4 @@ SplineSet
  878 773 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

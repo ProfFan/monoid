@@ -1,12 +1,11 @@
 StartChar: hyphen
-Encoding: 45 45 55
+Encoding: 13 45 55
 GlifName: hyphen
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 516 120<128 1024>
 LayerCount: 5
-Back
 Fore
 SplineSet
 128 636 m 5
@@ -16,9 +15,6 @@ SplineSet
  128 636 l 5
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 Substitution2: "Single Substitution lookup 66 subtable" hyphen.more
 Substitution2: "Single Substitution lookup 65 subtable" hyphen.more
 Substitution2: "Single Substitution lookup 64 subtable" hyphen.operator

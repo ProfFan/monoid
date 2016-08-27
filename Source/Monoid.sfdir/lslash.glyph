@@ -1,5 +1,5 @@
 StartChar: lslash
-Encoding: 322 322 285
+Encoding: 257 322 285
 GlifName: lslash
 Width: 1024
 VWidth: 0
@@ -52,7 +52,4 @@ SplineSet
  512 674 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

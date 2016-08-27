@@ -1,10 +1,9 @@
 StartChar: uniE005
-Encoding: 57349 57349 498
+Encoding: -1 57349 498
 GlifName: three.alt
 Width: 1920
 VWidth: 0
 LayerCount: 5
-Back
 Fore
 Validated: 1
 Layer: 2
@@ -31,6 +30,4 @@ SplineSet
  276 1288 l 5
  276 1408 l 5
 EndSplineSet
-Layer: 3
-Layer: 4
 EndChar

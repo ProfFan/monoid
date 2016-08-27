@@ -1,5 +1,5 @@
 StartChar: Y
-Encoding: 89 89 52
+Encoding: 57 89 52
 GlifName: Y_
 Width: 1024
 VWidth: 0
@@ -53,6 +53,4 @@ SplineSet
  325.721329961 1172.2814883 428.958917754 942.350941362 566 740.814453125 c 5
  586 740.814453125 l 5
 EndSplineSet
-Layer: 3
-Layer: 4
 EndChar

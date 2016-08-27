@@ -1,12 +1,11 @@
 StartChar: Udieresis.sq
-Encoding: 1114196 -1 688
+Encoding: 693 -1 687
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: -16 120<426.462 725.475> 1424 224<269.423 434.577 717.423 882.577>
 VStem: 128 128<277.329 1280> 240 224<1453.42 1618.58> 688 224<1453.42 1618.58> 896 128<277.329 1280>
 LayerCount: 5
-Back
 Fore
 SplineSet
 128 1280 m 1xe4
@@ -36,7 +35,4 @@ SplineSet
  240 1602 286 1648 352 1648 c 4
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

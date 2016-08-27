@@ -1,5 +1,5 @@
 StartChar: Rho
-Encoding: 929 929 475
+Encoding: 403 929 475
 GlifName: R_ho
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 0 21G<256 384> 640 120<384 790.336> 1288 120<384 790.336>
 VStem: 256 128<0 640 760 1288> 912 128<887.539 1160.46>
 LayerCount: 5
-Back
 Fore
 SplineSet
 577 760 m 2
@@ -30,7 +29,4 @@ SplineSet
  384 0 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

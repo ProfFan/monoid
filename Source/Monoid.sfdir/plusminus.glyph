@@ -1,5 +1,5 @@
 StartChar: plusminus
-Encoding: 177 177 291
+Encoding: 112 177 291
 GlifName: plusminus
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 260 120<128 1024> 772 120<128 512 640 1024>
 VStem: 512 128<512 772 892 1152>
 LayerCount: 5
-Back
 Fore
 SplineSet
 640 892 m 1
@@ -30,7 +29,4 @@ SplineSet
  128 380 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

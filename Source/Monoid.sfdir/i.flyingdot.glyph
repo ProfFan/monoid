@@ -1,5 +1,5 @@
 StartChar: i.flyingdot
-Encoding: 1114155 -1 647
+Encoding: 652 -1 646
 GlifName: i.flyingdot
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 0 120<256 512 640 896> 776 120<256 512> 1200 224<461.423 626.577>
 VStem: 432 224<1229.42 1394.58> 512 128<120 776>
 LayerCount: 5
-Back
 Fore
 SplineSet
 544 1424 m 0xf0
@@ -28,7 +27,4 @@ SplineSet
  256 0 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

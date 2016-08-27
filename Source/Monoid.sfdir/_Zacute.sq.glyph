@@ -1,11 +1,10 @@
 StartChar: Zacute.sq
-Encoding: 1114238 -1 730
+Encoding: 735 -1 729
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 0 120<303 1024> 1160 120<148 829> 1411 21G<507 657.969>
 LayerCount: 5
-Back
 Fore
 SplineSet
 148 1160 m 1
@@ -28,7 +27,4 @@ SplineSet
  507 1411 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

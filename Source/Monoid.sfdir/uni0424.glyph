@@ -1,5 +1,5 @@
 StartChar: uni0424
-Encoding: 1060 1060 339
+Encoding: 485 1060 339
 GlifName: uni0424
 Width: 1024
 VWidth: 0
@@ -240,5 +240,4 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Layer: 4
 EndChar

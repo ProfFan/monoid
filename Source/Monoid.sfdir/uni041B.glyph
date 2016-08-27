@@ -1,5 +1,5 @@
 StartChar: uni041B
-Encoding: 1051 1051 330
+Encoding: 476 1051 330
 GlifName: uni041B_
 Width: 1024
 VWidth: 0
@@ -88,5 +88,4 @@ SplineSet
  382.634765625 264.020507812 384 301.896484375 384 344 c 4
  384 1338 l 5
 EndSplineSet
-Layer: 4
 EndChar

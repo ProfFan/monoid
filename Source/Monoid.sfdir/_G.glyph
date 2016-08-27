@@ -1,5 +1,5 @@
 StartChar: G
-Encoding: 71 71 35
+Encoding: 39 71 35
 GlifName: G_
 Width: 1024
 VWidth: 0
@@ -53,9 +53,6 @@ SplineSet
  200 1267 379 1424 673 1424 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 Position2: "Single Positioning lookup 23 subtable" dx=128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 21 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 20 subtable" dx=0 dy=0 dh=0 dv=0

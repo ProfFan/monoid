@@ -1,5 +1,5 @@
 StartChar: theta
-Encoding: 952 952 491
+Encoding: 425 952 491
 GlifName: theta
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: -18 124<483.134 668.866> 644 120<377 775> 1302 124<483.134 668.866>
 VStem: 253 124<324.469 644 764 1083.53> 775 124<324.469 644 764 1083.53>
 CounterMasks: 1 e0
 LayerCount: 5
-Back
 Fore
 SplineSet
 775 644 m 1
@@ -34,7 +33,4 @@ SplineSet
  332 1315 411 1426 576 1426 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

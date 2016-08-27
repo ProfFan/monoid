@@ -1,5 +1,5 @@
 StartChar: three
-Encoding: 51 51 73
+Encoding: 19 51 73
 GlifName: three
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<259.799 694.28> 742 99<557 704.563> 1288 120<256 740>
 VStem: 800 128<221.254 636.13>
 LayerCount: 5
-Back
 Fore
 SplineSet
 800 429 m 4
@@ -142,6 +141,5 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Layer: 4
 Substitution2: "'ss06' Style Set 6 lookup 107 subtable" three.boob
 EndChar

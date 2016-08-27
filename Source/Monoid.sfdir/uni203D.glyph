@@ -1,5 +1,5 @@
 StartChar: uni203D
-Encoding: 8253 8253 582
+Encoding: 582 8253 582
 GlifName: uni203D_
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 288<479.538 672.462> 1304 120<355.432 689.981>
 VStem: 432 288<31.5385 224.462> 512 133<512 645.176 815 1152> 780 128<957.245 1217.03>
 LayerCount: 5
-Back
 Fore
 SplineSet
 576 272 m 0xe8
@@ -29,7 +28,4 @@ SplineSet
  645 815 l 1xd8
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

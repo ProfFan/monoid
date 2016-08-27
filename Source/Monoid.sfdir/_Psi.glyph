@@ -1,5 +1,5 @@
 StartChar: Psi
-Encoding: 936 936 519
+Encoding: 409 936 519
 GlifName: P_si
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: 0 21G<512 640> 370 120<380.905 512 640 771.095> 1388 20G<128 256 512 640 
 VStem: 128 128<603.017 1408> 512 128<0 373.177 490 1408> 896 128<603.017 1408>
 CounterMasks: 1 1c
 LayerCount: 5
-Back
 Fore
 SplineSet
 512 370 m 1
@@ -34,7 +33,4 @@ SplineSet
  512 370 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

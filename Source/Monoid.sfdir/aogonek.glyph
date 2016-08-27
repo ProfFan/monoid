@@ -1,5 +1,5 @@
 StartChar: aogonek
-Encoding: 261 261 166
+Encoding: 196 261 166
 GlifName: aogonek
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -350 120<764.904 896> -16 120<428.964 640.666> 512 110<432.381 768> 920 120<324.118 730.059>
 VStem: 224 128<180.598 428.043> 633 121<-217.883 -88.5621> 768 128<-15.5371 123 238.75 512 622 881.269>
 LayerCount: 5
-Back
 Fore
 SplineSet
 832 -230 m 0
@@ -43,7 +42,4 @@ SplineSet
  768 512 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,12 +1,11 @@
 StartChar: equalcolonequal
-Encoding: 1114165 -1 750
+Encoding: 662 -1 749
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 0 240<-576 -320> 260 120<-1792 -1024 128 896> 772 120<-1792 -1024 128 896> 784 240<-576 -320>
 VStem: -576 256<0 240 784 1024>
 LayerCount: 5
-Back
 Fore
 SplineSet
 128 380 m 5xc8
@@ -41,7 +40,4 @@ SplineSet
  -576 1024 l 1xd8
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

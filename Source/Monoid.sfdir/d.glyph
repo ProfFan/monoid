@@ -1,5 +1,5 @@
 StartChar: d
-Encoding: 100 100 4
+Encoding: 68 100 4
 GlifName: d
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<461.907 660.53> 0 21G<768 896> 920 120<461.907 660.53> 1388 20G<768 896>
 VStem: 224 128<237.748 786.252> 768 128<0 125 237.626 786.374 899 1408>
 LayerCount: 5
-Back
 Fore
 SplineSet
 540 1040 m 0xbc
@@ -35,9 +34,6 @@ SplineSet
  716 847 656 920 560 920 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 Position2: "Single Positioning lookup 19 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=0 dy=0 dh=0 dv=0

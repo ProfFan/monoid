@@ -1,5 +1,5 @@
 StartChar: AE
-Encoding: 198 198 105
+Encoding: 133 198 105
 GlifName: A_E_
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 0 120<768 1024> 388 120<262 640> 644 120<768 1024> 1288 120<419.921 640 768 1024>
 VStem: 103 128<0 367.797> 640 384<0 120 644 764> 640 128<120 388 508 644 764 1288>
 LayerCount: 5
-Back
 Fore
 SplineSet
 640 388 m 1xfa
@@ -34,7 +33,4 @@ SplineSet
  640 508 l 1xfa
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

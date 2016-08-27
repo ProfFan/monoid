@@ -1,5 +1,5 @@
 StartChar: equivalence
-Encoding: 8801 8801 570
+Encoding: 602 8801 570
 GlifName: equivalence
 Width: 1024
 VWidth: -128
@@ -7,7 +7,6 @@ Flags: W
 HStem: 132 120<128 1024> 516 120<128 1024> 900 120<128 1024>
 CounterMasks: 1 e0
 LayerCount: 5
-Back
 Fore
 SplineSet
 128 1020 m 1
@@ -27,7 +26,4 @@ SplineSet
  128 636 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

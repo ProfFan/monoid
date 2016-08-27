@@ -1,12 +1,11 @@
 StartChar: dollar.empty
-Encoding: 1114158 -1 650
+Encoding: 655 -1 649
 GlifName: dollar.empty
 Width: 1024
 VWidth: 0
 Flags: W
 VStem: 234 128<852.404 1084.81> 512 128<-128 116.826 1290.64 1536> 800 128<325.787 554.499>
 LayerCount: 5
-Back
 Fore
 SplineSet
 640 117 m 1
@@ -34,7 +33,4 @@ SplineSet
  928 293 834 146 640 117 c 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

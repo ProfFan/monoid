@@ -1,5 +1,5 @@
 StartChar: uni0327
-Encoding: 807 807 307
+Encoding: 374 807 307
 GlifName: uni0327
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: -272 120<258.225 473.418>
 VStem: 512 128<-111.68 23>
 AnchorPoint: "bottom" 576 1 mark 0
 LayerCount: 5
-Back
 Fore
 SplineSet
 640 23 m 1
@@ -22,7 +21,4 @@ SplineSet
  640 23 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

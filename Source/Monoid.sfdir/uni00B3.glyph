@@ -1,5 +1,5 @@
 StartChar: uni00B3
-Encoding: 179 179 511
+Encoding: 114 179 511
 GlifName: uni00B_3
 Width: 1024
 VWidth: 0
@@ -56,7 +56,4 @@ SplineSet
  674 1150 l 1xd8
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

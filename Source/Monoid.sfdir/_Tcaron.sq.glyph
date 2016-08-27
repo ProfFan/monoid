@@ -1,12 +1,11 @@
 StartChar: Tcaron.sq
-Encoding: 1114229 -1 721
+Encoding: 726 -1 720
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 0 21G<512 640> 1160 120<128 512 640 1024> 1408 21G<473.797 678.203>
 VStem: 512 128<0 1160>
 LayerCount: 5
-Back
 Fore
 SplineSet
 1024 1280 m 5
@@ -28,7 +27,4 @@ SplineSet
  497 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

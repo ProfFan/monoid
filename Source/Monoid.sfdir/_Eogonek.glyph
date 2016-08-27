@@ -1,5 +1,5 @@
 StartChar: Eogonek
-Encoding: 280 280 163
+Encoding: 215 280 163
 GlifName: E_ogonek
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -350 120<894.267 1023.01> 0 120<384 896 963.864 1024> 648 120<384 896> 1288 120<384 1024>
 VStem: 256 128<120 648 768 1288> 754 128<-216.041 -81.3887>
 LayerCount: 5
-Back
 Fore
 SplineSet
 965 -230 m 0
@@ -32,7 +31,4 @@ SplineSet
  882 -211 928 -230 965 -230 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

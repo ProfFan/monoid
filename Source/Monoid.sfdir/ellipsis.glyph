@@ -1,5 +1,5 @@
 StartChar: ellipsis
-Encoding: 8230 8230 585
+Encoding: 579 8230 585
 GlifName: ellipsis
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: -16 224<171.423 336.577 491.423 656.577 811.423 976.577>
 VStem: 142 224<13.4227 178.577> 462 224<13.4227 178.577> 782 224<13.4227 178.577>
 CounterMasks: 1 70
 LayerCount: 5
-Back
 Fore
 SplineSet
 894 208 m 0
@@ -28,7 +27,4 @@ SplineSet
  142 162 188 208 254 208 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

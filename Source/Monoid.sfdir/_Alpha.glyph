@@ -1,5 +1,5 @@
 StartChar: Alpha
-Encoding: 913 913 466
+Encoding: 387 913 466
 GlifName: A_lpha
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 0 21G<103 243.5 908.5 1049> 388 120<316 836> 1289 119<555.101 596.899>
 VStem: 103 135<0 253.02> 914 135<0 253.02>
 LayerCount: 5
-Back
 Fore
 SplineSet
 103 0 m 1
@@ -26,7 +25,4 @@ SplineSet
  836 508 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

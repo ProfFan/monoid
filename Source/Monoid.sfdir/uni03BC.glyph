@@ -1,5 +1,5 @@
 StartChar: uni03BC
-Encoding: 956 956 520
+Encoding: 429 956 520
 GlifName: uni03B_C_
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<479.078 672.922> 0 21G<768 896> 1004 20G<256 384 768 896>
 VStem: 256 128<-384 112 180.901 1024> 768 128<0 112 180.901 1024>
 LayerCount: 5
-Back
 Fore
 SplineSet
 576 -16 m 0xb8
@@ -31,7 +30,4 @@ SplineSet
  714 35 644 -16 576 -16 c 0xb8
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

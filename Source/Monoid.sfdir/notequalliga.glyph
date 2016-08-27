@@ -1,12 +1,11 @@
 StartChar: notequalliga
-Encoding: 1114129 -1 622
+Encoding: 626 -1 621
 GlifName: notequalliga
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 0 21G<-288 -144.154> 260 120<-640 -159 34 768> 772 120<-640 94 287 768>
 LayerCount: 5
-Back
 Fore
 SplineSet
 34 380 m 1
@@ -32,7 +31,4 @@ SplineSet
  34 380 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uni020F
-Encoding: 527 527 453
+Encoding: 339 527 453
 GlifName: uni020F_
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<459.533 692.467> 920 120<459.533 692.467> 1304 120<435.067 716.933>
 VStem: 224 128<231.125 792.875> 236 128<1152 1239.49> 788 128<1152 1239.49> 800 128<231.125 792.875>
 LayerCount: 5
-Back
 Fore
 SplineSet
 788 1152 m 1xec
@@ -37,7 +36,4 @@ SplineSet
  310 945 416 1040 576 1040 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

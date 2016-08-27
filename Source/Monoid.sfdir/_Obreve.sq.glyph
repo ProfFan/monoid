@@ -1,12 +1,11 @@
 StartChar: Obreve.sq
-Encoding: 1114222 -1 714
+Encoding: 719 -1 713
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: -16 120<434.494 717.506> 1176 120<434.494 717.506> 1392 120<435.067 716.933>
 VStem: 112 128<345.017 934.983> 236 128<1576.51 1664> 788 128<1576.51 1664> 912 128<345.017 934.983>
 LayerCount: 5
-Back
 Fore
 SplineSet
 576 1176 m 4xf2
@@ -36,7 +35,4 @@ SplineSet
  719 1512 788 1578 788 1664 c 1xec
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

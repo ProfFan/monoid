@@ -1,5 +1,5 @@
 StartChar: exclam
-Encoding: 33 33 56
+Encoding: 1 33 56
 GlifName: exclam
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 288<479.538 672.462> 1388 20G<502 650>
 VStem: 432 288<31.5385 224.462> 512 128<512 1408>
 LayerCount: 5
-Back
 Fore
 SplineSet
 576 272 m 0xe0
@@ -22,9 +21,6 @@ SplineSet
  640 512 l 1xd0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 Position2: "Single Positioning lookup 24 subtable" dx=128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 22 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 16 subtable" dx=128 dy=0 dh=0 dv=0

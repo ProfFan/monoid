@@ -1,5 +1,5 @@
 StartChar: e
-Encoding: 101 101 5
+Encoding: 69 101 5
 GlifName: e
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: -16 120<469.07 891.106> 512 120<354 798> 920 120<452.408 699.592>
 VStem: 224 128<232.957 512 632 808.17> 798 130<632 812.653>
 AnchorPoint: "top" 576 1024 basechar 0
 LayerCount: 5
-Back
 Fore
 SplineSet
 576 920 m 0
@@ -69,8 +68,6 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Layer: 3
-Layer: 4
 Position2: "Single Positioning lookup 19 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=0 dy=0 dh=0 dv=0

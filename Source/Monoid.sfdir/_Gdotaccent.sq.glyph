@@ -1,12 +1,11 @@
 StartChar: Gdotaccent.sq
-Encoding: 1114211 -1 703
+Encoding: 708 -1 702
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: -16 120<471.22 893.413> 640 120<640 896> 1176 120<468.766 988.93> 1456 224<557.423 722.577>
 VStem: 112 128<375.486 904.514> 528 224<1485.42 1650.58> 896 128<119.186 640>
 LayerCount: 5
-Back
 Fore
 SplineSet
 653 1296 m 4
@@ -35,7 +34,4 @@ SplineSet
  528 1634 574 1680 640 1680 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,11 +1,10 @@
 StartChar: lessequalequalgreater
-Encoding: 1114274 -1 768
+Encoding: 768 -1 767
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 260 120<-1792 -1152 -768 -128> 772 120<-1792 -1152 -768 -128>
 LayerCount: 5
-Back
 Fore
 SplineSet
 -1792 380 m 1
@@ -47,7 +46,5 @@ SplineSet
  -2555 581 l 1
  -2555 571 l 1
 EndSplineSet
-Layer: 2
-Layer: 3
-Layer: 4
+Validated: 1
 EndChar

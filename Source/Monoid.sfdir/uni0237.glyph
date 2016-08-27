@@ -1,5 +1,5 @@
 StartChar: uni0237
-Encoding: 567 567 292
+Encoding: 352 567 292
 GlifName: uni0237
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: -272 120<174.991 533.513> 904 120<384 640>
 VStem: 640 128<-30.9382 904>
 AnchorPoint: "top" 704 1024 basechar 0
 LayerCount: 5
-Back
 Fore
 SplineSet
 640 160 m 2
@@ -26,7 +25,4 @@ SplineSet
  640 17 640 113 640 160 c 2
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,12 +1,11 @@
 StartChar: Adieresis.sq
-Encoding: 1114177 -1 669
+Encoding: 674 -1 668
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 0 21G<105 246.5 905.5 1047> 384 120<342 810> 1424 224<269.423 434.577 717.423 882.577>
 VStem: 240 224<1453.42 1618.58> 688 224<1453.42 1618.58>
 LayerCount: 5
-Back
 Fore
 SplineSet
 581 1139 m 5
@@ -35,7 +34,4 @@ SplineSet
  240 1602 286 1648 352 1648 c 4
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

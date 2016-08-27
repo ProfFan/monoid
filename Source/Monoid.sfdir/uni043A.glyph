@@ -1,5 +1,5 @@
 StartChar: uni043A
-Encoding: 1082 1082 361
+Encoding: 507 1082 361
 GlifName: uni043A_
 Width: 1024
 VWidth: 0
@@ -41,7 +41,4 @@ SplineSet
  384 0 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

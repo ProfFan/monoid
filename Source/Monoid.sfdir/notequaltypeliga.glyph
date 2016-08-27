@@ -1,5 +1,5 @@
 StartChar: notequaltypeliga
-Encoding: 1114146 -1 638
+Encoding: 643 -1 637
 GlifName: notequaltypeliga
 Width: 1024
 VWidth: 0
@@ -47,6 +47,7 @@ SplineSet
  -600.477272727 132 l 5
  -729 -128 l 5
 EndSplineSet
+Validated: 524289
 Layer: 2
 SplineSet
 -128 380 m 5
@@ -81,6 +82,4 @@ SplineSet
  -924 772 l 5
  -1118 380 l 5
 EndSplineSet
-Layer: 3
-Layer: 4
 EndChar

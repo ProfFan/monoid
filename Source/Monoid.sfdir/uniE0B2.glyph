@@ -1,11 +1,10 @@
 StartChar: uniE0B2
-Encoding: 57522 57522 605
+Encoding: 616 57522 605
 GlifName: uniE_0B_2
 Width: 1024
 VWidth: 2048
 Flags: W
 LayerCount: 5
-Back
 Fore
 SplineSet
 1024 1664 m 1
@@ -14,7 +13,4 @@ SplineSet
  1024 1664 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

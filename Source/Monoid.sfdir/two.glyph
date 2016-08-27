@@ -1,5 +1,5 @@
 StartChar: two
-Encoding: 50 50 72
+Encoding: 18 50 72
 GlifName: two
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 0 120<418 950> 1304 120<259.954 688.267>
 VStem: 780 128<952.507 1216.51>
 LayerCount: 5
-Back
 Fore
 SplineSet
 256 1393 m 1
@@ -60,5 +59,4 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Layer: 4
 EndChar

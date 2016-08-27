@@ -1,5 +1,5 @@
 StartChar: three.boob
-Encoding: 1114152 -1 644
+Encoding: 649 -1 643
 GlifName: three.russian
 Width: 1024
 VWidth: 0
@@ -57,7 +57,4 @@ SplineSet
  338 1410 429 1424 536 1424 c 4xf0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

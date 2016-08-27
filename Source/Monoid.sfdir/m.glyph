@@ -1,5 +1,5 @@
 StartChar: m
-Encoding: 109 109 13
+Encoding: 77 109 13
 GlifName: m
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: 0 21G<128 256 512 640 896 1024> 920 120<318.371 473.879 680.411 858.507> 
 VStem: 128 128<0 882.328 949 1024> 512 128<0 882.328> 896 128<0 881.244>
 CounterMasks: 1 1c
 LayerCount: 5
-Back
 Fore
 SplineSet
 414 1040 m 4xdc
@@ -76,7 +75,6 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Layer: 4
 Position2: "Single Positioning lookup 23 subtable" dx=128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 21 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 20 subtable" dx=0 dy=0 dh=0 dv=0

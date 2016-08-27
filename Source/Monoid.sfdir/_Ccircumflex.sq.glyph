@@ -1,12 +1,11 @@
 StartChar: Ccircumflex.sq
-Encoding: 1114201 -1 693
+Encoding: 698 -1 692
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: -16 120<471.22 1018.69> 1176 120<468.766 988.93> 1408 21G<264 448.585 831.415 1016>
 VStem: 112 128<375.486 904.514>
 LayerCount: 5
-Back
 Fore
 SplineSet
 653 1296 m 0
@@ -34,7 +33,4 @@ SplineSet
  561 1664 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

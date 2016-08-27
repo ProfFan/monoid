@@ -1,12 +1,11 @@
 StartChar: figuredash
-Encoding: 8210 8210 591
+Encoding: 566 8210 591
 GlifName: figuredash
 Width: 1024
 VWidth: -128
 Flags: W
 HStem: 515 120<128 1024>
 LayerCount: 5
-Back
 Fore
 SplineSet
 128 635 m 1
@@ -16,7 +15,4 @@ SplineSet
  128 635 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,11 +1,10 @@
 StartChar: Agrave.sq
-Encoding: 1114173 -1 665
+Encoding: 670 -1 664
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 0 21G<105 246.5 905.5 1047> 384 120<342 810> 1408 21G<513.031 664>
 LayerCount: 5
-Back
 Fore
 SplineSet
 581 1139 m 5
@@ -29,7 +28,4 @@ SplineSet
  664 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

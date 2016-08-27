@@ -1,5 +1,5 @@
 StartChar: one.base
-Encoding: 1114150 -1 642
+Encoding: 647 -1 641
 GlifName: one.base
 Width: 1024
 VWidth: 0
@@ -44,7 +44,4 @@ SplineSet
  532 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,5 +1,5 @@
 StartChar: cent
-Encoding: 162 162 528
+Encoding: 97 162 528
 GlifName: cent
 Width: 1024
 VWidth: 0
@@ -50,7 +50,4 @@ SplineSet
  226 286 224 391 224 512 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,5 +1,5 @@
 StartChar: Gamma
-Encoding: 915 915 468
+Encoding: 389 915 468
 GlifName: G_amma
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: 0 21G<256 384> 1288 120<384 1024>
 VStem: 256 128<0 1288>
 AnchorPoint: "top" 576 1408 basechar 0
 LayerCount: 5
-Back
 Fore
 SplineSet
 256 1408 m 1
@@ -20,7 +19,4 @@ SplineSet
  256 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

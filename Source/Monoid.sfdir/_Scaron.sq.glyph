@@ -1,12 +1,11 @@
 StartChar: Scaron.sq
-Encoding: 1114228 -1 720
+Encoding: 725 -1 719
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: -16 120<260.808 787.325> 1176 120<475.797 984.716> 1408 21G<473.797 678.203>
 VStem: 226 128<836.061 1067.44> 926 128<223.54 463.658>
 LayerCount: 5
-Back
 Fore
 SplineSet
 620 -16 m 0
@@ -36,7 +35,4 @@ SplineSet
  497 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

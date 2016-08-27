@@ -1,5 +1,5 @@
 StartChar: psi
-Encoding: 968 968 517
+Encoding: 441 968 517
 GlifName: psi
 Width: 1024
 VWidth: 0
@@ -87,6 +87,4 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Layer: 3
-Layer: 4
 EndChar

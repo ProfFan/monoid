@@ -1,5 +1,5 @@
 StartChar: onequarter
-Encoding: 188 188 501
+Encoding: 123 188 501
 GlifName: onequarter
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 128 120<643 896>
 VStem: 384 128<768 1378> 896 128<-128 128 248 640>
 LayerCount: 5
-Back
 Fore
 SplineSet
 404 1536 m 1
@@ -33,7 +32,4 @@ SplineSet
  1024 -128 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

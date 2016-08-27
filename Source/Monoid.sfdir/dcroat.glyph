@@ -1,5 +1,5 @@
 StartChar: dcroat
-Encoding: 273 273 182
+Encoding: 208 273 182
 GlifName: dcroat
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<453.158 651.56> 0 21G<768 896> 792 120<453.158 651.56> 1156 120<384 768 896 1024> 1388 20G<768 896>
 VStem: 224 128<228.17 667.83> 768 128<0 125 227.581 668.419 771 1156 1276 1408>
 LayerCount: 5
-Back
 Fore
 SplineSet
 768 0 m 1x7e
@@ -43,7 +42,4 @@ SplineSet
  371 685 352 581 352 448 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

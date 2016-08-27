@@ -1,12 +1,11 @@
 StartChar: Cdotaccent.sq
-Encoding: 1114202 -1 694
+Encoding: 699 -1 693
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: -16 120<471.22 1018.69> 1176 120<468.766 988.93> 1456 224<557.423 722.577>
 VStem: 112 128<375.486 904.514> 528 224<1485.42 1650.58>
 LayerCount: 5
-Back
 Fore
 SplineSet
 653 1296 m 0
@@ -31,7 +30,4 @@ SplineSet
  528 1634 574 1680 640 1680 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

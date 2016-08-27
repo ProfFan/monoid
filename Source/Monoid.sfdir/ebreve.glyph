@@ -1,5 +1,5 @@
 StartChar: ebreve
-Encoding: 277 277 186
+Encoding: 212 277 186
 GlifName: ebreve
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<469.07 891.106> 512 120<354 798> 920 120<452.408 699.592> 1136 120<435.067 716.933> 1388 20G<236 364 788 916>
 VStem: 224 128<232.957 512 632 808.17> 236 128<1320.51 1408> 788 128<1320.51 1408> 798 130<632 812.653>
 LayerCount: 5
-Back
 Fore
 SplineSet
 576 920 m 0xf880
@@ -38,7 +37,4 @@ SplineSet
  719 1256 788 1322 788 1408 c 1xfb
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

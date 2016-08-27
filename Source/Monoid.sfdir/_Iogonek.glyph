@@ -1,5 +1,5 @@
 StartChar: Iogonek
-Encoding: 302 302 230
+Encoding: 237 302 230
 GlifName: I_ogonek
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -350 120<764.904 896> 0 120<256 512 640 768 835.864 896> 1288 120<256 512 640 896>
 VStem: 512 128<120 1288> 633 121<-217.883 -88.5621>
 LayerCount: 5
-Back
 Fore
 SplineSet
 832 -230 m 0xe8
@@ -32,7 +31,4 @@ SplineSet
  754 -211 797 -230 832 -230 c 0xe8
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

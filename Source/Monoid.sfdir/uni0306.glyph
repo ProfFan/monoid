@@ -1,5 +1,5 @@
 StartChar: uni0306
-Encoding: 774 774 298
+Encoding: 363 774 298
 GlifName: uni0306
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: 1264 120<435.067 716.933>
 VStem: 236 128<1448.51 1536> 788 128<1448.51 1536>
 AnchorPoint: "top" 576 1152 mark 0
 LayerCount: 5
-Back
 Fore
 SplineSet
 788 1536 m 1
@@ -20,7 +19,4 @@ SplineSet
  719 1384 788 1450 788 1536 c 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,5 +1,5 @@
 StartChar: ordmasculine
-Encoding: 186 186 526
+Encoding: 121 186 526
 GlifName: ordmasculine
 Width: 1024
 VWidth: 0
@@ -238,5 +238,4 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Layer: 4
 EndChar

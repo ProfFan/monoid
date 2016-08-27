@@ -1,11 +1,10 @@
 StartChar: multiply
-Encoding: 215 215 122
+Encoding: 150 215 122
 GlifName: multiply
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 5
-Back
 Fore
 SplineSet
 725 512 m 1
@@ -35,7 +34,4 @@ SplineSet
  725 512 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

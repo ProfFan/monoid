@@ -1,5 +1,5 @@
 StartChar: numbersign
-Encoding: 35 35 58
+Encoding: 3 35 58
 GlifName: numbersign
 Width: 1024
 VWidth: 0
@@ -99,6 +99,4 @@ SplineSet
  768 904 l 5
  512 904 l 5
 EndSplineSet
-Layer: 3
-Layer: 4
 EndChar

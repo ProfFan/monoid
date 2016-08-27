@@ -1,5 +1,5 @@
 StartChar: uni2074
-Encoding: 8308 8308 598
+Encoding: 583 8308 598
 GlifName: uni2074
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 1024 120<392 640>
 VStem: 640 128<768 1024 1144 1536>
 LayerCount: 5
-Back
 Fore
 SplineSet
 768 768 m 1
@@ -24,7 +23,4 @@ SplineSet
  768 768 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

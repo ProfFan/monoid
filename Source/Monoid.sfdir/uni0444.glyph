@@ -1,5 +1,5 @@
 StartChar: uni0444
-Encoding: 1092 1092 371
+Encoding: 517 1092 371
 GlifName: uni0444
 Width: 1024
 VWidth: 0
@@ -116,6 +116,4 @@ SplineSet
  512 0 l 5
  512 1536 l 5
 EndSplineSet
-Layer: 3
-Layer: 4
 EndChar

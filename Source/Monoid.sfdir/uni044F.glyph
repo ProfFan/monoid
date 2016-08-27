@@ -1,5 +1,5 @@
 StartChar: uni044F
-Encoding: 1103 1103 381
+Encoding: 528 1103 381
 GlifName: uni044F_
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 0 21G<222 363.432 767 896> 388 120<519 767> 904 120<425.406 768>
 VStem: 224 128<581.977 829.378> 768 128<0 388 508 904>
 LayerCount: 5
-Back
 Fore
 SplineSet
 767 388 m 1
@@ -33,7 +32,4 @@ SplineSet
  768 508 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

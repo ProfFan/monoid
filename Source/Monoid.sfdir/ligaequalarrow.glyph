@@ -1,12 +1,11 @@
 StartChar: ligaequalarrow
-Encoding: 1114166 -1 660
+Encoding: 663 -1 659
 GlifName: ligaequalarrow
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 260 120<-640 301> 772 120<-640 301>
 LayerCount: 5
-Back
 Fore
 SplineSet
 635 571 m 1
@@ -28,7 +27,4 @@ SplineSet
  635 571 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

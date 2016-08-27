@@ -1,5 +1,5 @@
 StartChar: oe
-Encoding: 339 339 254
+Encoding: 274 339 254
 GlifName: oe
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<303.045 432.417 727.212 1021.06> 512 120<641 927> 920 120<303.045 433.471 716.364 862.074>
 VStem: 96 128<217.704 806.296> 512 128<219 512 632 806.865> 927 127<632 839.85>
 LayerCount: 5
-Back
 Fore
 SplineSet
 368 104 m 0
@@ -82,6 +81,4 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Layer: 3
-Layer: 4
 EndChar

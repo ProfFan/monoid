@@ -1,11 +1,10 @@
 StartChar: less1
-Encoding: 1114139 -1 632
+Encoding: 636 -1 631
 GlifName: less1
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 5
-Back
 Fore
 SplineSet
 517 571 m 1
@@ -19,7 +18,4 @@ SplineSet
  517 571 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,5 +1,5 @@
 StartChar: copyright
-Encoding: 169 169 514
+Encoding: 104 169 514
 GlifName: copyright
 Width: 1024
 VWidth: 0
@@ -144,5 +144,4 @@ SplineSet
  699.443466101 505.688200226 734.146582829 514.352409381 768 525.899737398 c 5
  768 399.642899348 l 5
 EndSplineSet
-Layer: 4
 EndChar

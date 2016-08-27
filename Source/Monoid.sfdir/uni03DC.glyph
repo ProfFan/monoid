@@ -1,5 +1,5 @@
 StartChar: uni03DC
-Encoding: 988 988 612
+Encoding: 448 988 612
 GlifName: uni03D_C_
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 0 21G<256 384> 640 120<384 896> 1288 120<384 1024>
 VStem: 256 128<0 640 760 1288>
 LayerCount: 5
-Back
 Fore
 SplineSet
 256 1408 m 1
@@ -23,7 +22,4 @@ SplineSet
  256 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

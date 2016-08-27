@@ -1,5 +1,5 @@
 StartChar: omicron
-Encoding: 959 959 487
+Encoding: 432 959 487
 GlifName: omicron
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: -16 120<459.533 692.467> 920 120<459.533 692.467>
 VStem: 224 128<231.125 792.875> 800 128<231.125 792.875>
 AnchorPoint: "top" 576 1024 basechar 0
 LayerCount: 5
-Back
 Fore
 SplineSet
 576 1040 m 0
@@ -31,7 +30,4 @@ SplineSet
  736 868 672 920 576 920 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

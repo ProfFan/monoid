@@ -1,5 +1,5 @@
 StartChar: Ibreve.sq
-Encoding: 1114215 -1 707
+Encoding: 712 -1 706
 Width: 1024
 VWidth: 0
 Flags: W
@@ -7,7 +7,6 @@ HStem: 0 120<256 512 640 896> 1160 120<256 512 640 896> 1392 120<435.067 716.933
 VStem: 236 128<1576.51 1664> 512 128<120 1160> 788 128<1576.51 1664>
 CounterMasks: 1 1c
 LayerCount: 5
-Back
 Fore
 SplineSet
 896 1280 m 5
@@ -32,7 +31,4 @@ SplineSet
  719 1512 788 1578 788 1664 c 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

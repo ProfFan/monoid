@@ -1,5 +1,5 @@
 StartChar: upsilon
-Encoding: 965 965 537
+Encoding: 438 965 537
 GlifName: upsilon
 Width: 1024
 VWidth: 0
@@ -55,7 +55,4 @@ SplineSet
 384 337 m 1026,31,-1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,5 +1,5 @@
 StartChar: threequarters
-Encoding: 190 190 508
+Encoding: 125 190 508
 GlifName: threequarters
 Width: 1024
 VWidth: 0
@@ -140,6 +140,4 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Layer: 3
-Layer: 4
 EndChar

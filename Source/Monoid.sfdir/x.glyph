@@ -1,12 +1,11 @@
 StartChar: x
-Encoding: 120 120 23
+Encoding: 88 120 23
 GlifName: x
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 0 21G<159 337.893 814.107 993> 1004 20G<181 359.737 792.263 971>
 LayerCount: 5
-Back
 Fore
 SplineSet
 571 644 m 1
@@ -35,8 +34,6 @@ SplineSet
 128 -144 m 5
  1152 1196 l 1029
 EndSplineSet
-Layer: 3
-Layer: 4
 Position2: "Single Positioning lookup 19 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=0 dy=0 dh=0 dv=0

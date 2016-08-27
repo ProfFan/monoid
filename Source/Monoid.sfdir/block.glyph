@@ -1,12 +1,11 @@
 StartChar: block
-Encoding: 9608 9608 607
+Encoding: 605 9608 607
 GlifName: block
 Width: 1024
 VWidth: 2048
 Flags: W
 VStem: 0 1024<-256 1664>
 LayerCount: 5
-Back
 Fore
 SplineSet
 0 1664 m 1
@@ -16,7 +15,4 @@ SplineSet
  0 1664 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

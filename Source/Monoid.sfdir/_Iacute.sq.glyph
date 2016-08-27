@@ -1,12 +1,11 @@
 StartChar: Iacute.sq
-Encoding: 1114184 -1 676
+Encoding: 681 -1 675
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 0 120<256 512 640 896> 1160 120<256 512 640 896> 1408 21G<488 638.969>
 VStem: 512 128<120 1160>
 LayerCount: 5
-Back
 Fore
 SplineSet
 896 1280 m 5
@@ -29,7 +28,4 @@ SplineSet
  488 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

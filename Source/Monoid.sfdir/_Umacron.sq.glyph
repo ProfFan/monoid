@@ -1,12 +1,11 @@
 StartChar: Umacron.sq
-Encoding: 1114231 -1 723
+Encoding: 728 -1 722
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: -16 120<426.462 725.475> 1412 120<256 896>
 VStem: 128 128<277.329 1280> 896 128<277.329 1280>
 LayerCount: 5
-Back
 Fore
 SplineSet
 128 1280 m 1
@@ -31,7 +30,4 @@ SplineSet
  256 1532 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

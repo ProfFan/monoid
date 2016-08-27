@@ -1,5 +1,5 @@
 StartChar: r
-Encoding: 114 114 18
+Encoding: 82 114 18
 GlifName: r
 Width: 1024
 VWidth: 0
@@ -9,7 +9,6 @@ VStem: 256 128<0 724.349 865 1024>
 AnchorPoint: "bottom" 448 0 basechar 0
 AnchorPoint: "top" 576 1024 basechar 0
 LayerCount: 5
-Back
 Fore
 SplineSet
 716 920 m 0xd0

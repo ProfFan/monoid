@@ -1,5 +1,5 @@
 StartChar: gravecomb
-Encoding: 768 768 293
+Encoding: 358 768 293
 GlifName: gravecomb
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: 1280 256
 VStem: 360 304
 AnchorPoint: "top" 576 1152 mark 0
 LayerCount: 5
-Back
 Fore
 SplineSet
 664 1280 m 1
@@ -18,7 +17,4 @@ SplineSet
  664 1280 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

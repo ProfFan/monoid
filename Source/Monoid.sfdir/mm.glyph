@@ -1,5 +1,5 @@
 StartChar: mm
-Encoding: 1114132 -1 625
+Encoding: 629 -1 624
 GlifName: mm
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 0 21G<-768 -640 -384 -256 0 128 384 512 768 896> 920 120<-577.629 -422.121 -215.589 -38.1213 168.411 345.879 552.411 730.507> 1004 20G<-768 -640>
 VStem: -768 128<0 882.328 949 1024> -384 128<0 882.328> 0 128<0 882.328> 384 128<0 882.328> 768 128<0 881.244>
 LayerCount: 5
-Back
 Fore
 SplineSet
 640 920 m 4xdf
@@ -56,8 +55,5 @@ SplineSet
  717 903 683 920 640 920 c 4xdf
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 Substitution2: "'ss15' Style Set 15 lookup 116 subtable" mm.alt
 EndChar

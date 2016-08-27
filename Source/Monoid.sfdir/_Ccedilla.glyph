@@ -1,5 +1,5 @@
 StartChar: Ccedilla
-Encoding: 199 199 106
+Encoding: 134 199 106
 GlifName: C_cedilla
 Width: 1024
 VWidth: 0
@@ -51,7 +51,4 @@ SplineSet
  779 104 909 121 1024 141 c 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

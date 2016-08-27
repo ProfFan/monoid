@@ -1,11 +1,10 @@
 StartChar: hyphen.operator
-Encoding: 1114170 -1 664
+Encoding: 667 -1 663
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 516 120<256 1024>
 LayerCount: 5
-Back
 Fore
 SplineSet
 256 636 m 1
@@ -15,7 +14,4 @@ SplineSet
  256 636 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

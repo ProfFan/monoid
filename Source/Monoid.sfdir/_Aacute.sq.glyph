@@ -1,11 +1,10 @@
 StartChar: Aacute.sq
-Encoding: 1114174 -1 666
+Encoding: 671 -1 665
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 0 21G<105 246.5 905.5 1047> 384 120<342 810> 1408 21G<488 638.969>
 LayerCount: 5
-Back
 Fore
 SplineSet
 581 1139 m 5
@@ -29,7 +28,4 @@ SplineSet
  488 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

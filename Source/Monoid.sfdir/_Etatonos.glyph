@@ -1,5 +1,5 @@
 StartChar: Etatonos
-Encoding: 905 905 560
+Encoding: 381 905 560
 GlifName: E_tatonos
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 0 21G<128 256 896 1024> 644 120<256 896> 1388 20G<128 256 896 1024>
 VStem: 128 128<0 644 764 1408> 896 128<0 644 764 1408>
 LayerCount: 5
-Back
 Fore
 SplineSet
 -50 1438 m 1
@@ -30,7 +29,4 @@ SplineSet
  128 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

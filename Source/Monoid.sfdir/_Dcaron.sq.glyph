@@ -1,12 +1,11 @@
 StartChar: Dcaron.sq
-Encoding: 1114204 -1 696
+Encoding: 701 -1 695
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 0 120<256 679.75> 1160 120<256 679.75> 1408 21G<473.797 678.203>
 VStem: 128 128<120 1160> 912 128<363.94 916.06>
 LayerCount: 5
-Back
 Fore
 SplineSet
 474 1280 m 2
@@ -35,7 +34,4 @@ SplineSet
  497 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

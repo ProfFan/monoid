@@ -1,5 +1,5 @@
 StartChar: period.2l
-Encoding: 1114144 -1 636
+Encoding: 641 -1 635
 GlifName: period2l
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 0 240<512 768>
 VStem: 512 256<0 240>
 LayerCount: 5
-Back
 Fore
 SplineSet
 512 240 m 1
@@ -17,7 +16,4 @@ SplineSet
  512 240 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

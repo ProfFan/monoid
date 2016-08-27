@@ -1,5 +1,5 @@
 StartChar: uni0423
-Encoding: 1059 1059 338
+Encoding: 484 1059 338
 GlifName: uni0423
 Width: 1024
 VWidth: 0
@@ -43,7 +43,4 @@ SplineSet
  491 384 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

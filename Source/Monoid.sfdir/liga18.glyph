@@ -1,12 +1,9 @@
 StartChar: liga18
-Encoding: 1114295 -1 793
+Encoding: 789 -1 792
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 5
-Back
 Fore
-Layer: 2
-Layer: 3
-Layer: 4
+Validated: 1
 EndChar

@@ -1,12 +1,11 @@
 StartChar: ligaarrowrighttwoheads
-Encoding: 1114126 -1 619
+Encoding: 623 -1 618
 GlifName: ligaarrowrighttwoheads
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 516 120<-1664 -64>
 LayerCount: 5
-Back
 Fore
 SplineSet
 635 571 m 1
@@ -31,7 +30,4 @@ SplineSet
  -64 516 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

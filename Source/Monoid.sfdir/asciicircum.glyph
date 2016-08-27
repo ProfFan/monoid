@@ -1,5 +1,5 @@
 StartChar: asciicircum
-Encoding: 94 94 89
+Encoding: 62 94 89
 GlifName: asciicircum
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 1299 109<524.172 627.828>
 VStem: 201 135<896 988.157> 816 135<896 988.157>
 LayerCount: 5
-Back
 Fore
 SplineSet
 201 896 m 1
@@ -21,7 +20,4 @@ SplineSet
  201 896 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

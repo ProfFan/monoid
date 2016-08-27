@@ -1,5 +1,5 @@
 StartChar: nine
-Encoding: 57 57 79
+Encoding: 25 57 79
 GlifName: nine
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 496 120<443.892 671.689> 1304 120<441.627 678.07>
 VStem: 224 128<722.689 1197.76> 768 128<722.811 1197.83>
 LayerCount: 5
-Back
 Fore
 SplineSet
 560 1424 m 4
@@ -30,8 +29,5 @@ SplineSet
  768 1147 747 1304 560 1304 c 4
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 Substitution2: "'ss13' Style Set 13 lookup 114 subtable" nine.round
 EndChar

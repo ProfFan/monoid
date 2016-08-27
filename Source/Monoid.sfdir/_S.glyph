@@ -1,5 +1,5 @@
 StartChar: S
-Encoding: 83 83 46
+Encoding: 51 83 46
 GlifName: S_
 Width: 1024
 VWidth: 0
@@ -162,7 +162,6 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Layer: 4
 Position2: "Single Positioning lookup 23 subtable" dx=128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 21 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 20 subtable" dx=0 dy=0 dh=0 dv=0

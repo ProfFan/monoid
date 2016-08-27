@@ -1,5 +1,5 @@
 StartChar: sigma
-Encoding: 963 963 513
+Encoding: 436 963 513
 GlifName: sigma
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<459.533 692.467> 904 120<847 1024> 920 120<459.533 821.301>
 VStem: 224 128<231.125 792.875> 800 128<231.125 791.622>
 LayerCount: 5
-Back
 Fore
 SplineSet
 576 920 m 0xb8
@@ -33,7 +32,4 @@ SplineSet
  847 904 l 1xd8
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

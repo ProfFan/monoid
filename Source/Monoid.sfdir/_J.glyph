@@ -1,5 +1,5 @@
 StartChar: J
-Encoding: 74 74 38
+Encoding: 42 74 38
 GlifName: J_
 Width: 1024
 VWidth: 0
@@ -130,5 +130,4 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Layer: 4
 EndChar

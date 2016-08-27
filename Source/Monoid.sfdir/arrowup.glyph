@@ -1,5 +1,5 @@
 StartChar: arrowup
-Encoding: 8593 8593 577
+Encoding: 589 8593 577
 GlifName: arrowup
 Width: 1024
 VWidth: 0
@@ -35,7 +35,4 @@ SplineSet
  512 1110 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

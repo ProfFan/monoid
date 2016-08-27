@@ -1,12 +1,11 @@
 StartChar: Odieresis.sq
-Encoding: 1114192 -1 684
+Encoding: 689 -1 683
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: -16 120<434.494 717.506> 1176 120<434.494 717.506> 1424 224<269.423 434.577 717.423 882.577>
 VStem: 112 128<345.017 934.983> 240 224<1453.42 1618.58> 688 224<1453.42 1618.58> 912 128<345.017 934.983>
 LayerCount: 5
-Back
 Fore
 SplineSet
 576 1176 m 4xf2
@@ -39,7 +38,4 @@ SplineSet
  240 1602 286 1648 352 1648 c 4
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,12 +1,11 @@
 StartChar: Ograve.sq
-Encoding: 1114188 -1 680
+Encoding: 685 -1 679
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: -16 120<434.494 717.506> 1176 120<434.494 717.506> 1408 21G<513.031 664>
 VStem: 112 128<345.017 934.983> 912 128<345.017 934.983>
 LayerCount: 5
-Back
 Fore
 SplineSet
 576 1176 m 4
@@ -34,7 +33,4 @@ SplineSet
  664 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

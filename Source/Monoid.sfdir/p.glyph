@@ -1,5 +1,5 @@
 StartChar: p
-Encoding: 112 112 16
+Encoding: 80 112 16
 GlifName: p
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: -16 120<500.004 690.093> 920 120<500.004 690.093> 1004 20G<256 384>
 VStem: 256 128<-384 125 237.626 786.374 899 1024> 800 128<237.748 786.252>
 AnchorPoint: "top" 576 1024 basechar 0
 LayerCount: 5
-Back
 Fore
 SplineSet
 612 -16 m 0xd8
@@ -36,9 +35,6 @@ SplineSet
  436 177 496 104 592 104 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 Position2: "Single Positioning lookup 19 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=0 dy=0 dh=0 dv=0

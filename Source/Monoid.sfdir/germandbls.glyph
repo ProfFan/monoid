@@ -1,5 +1,5 @@
 StartChar: germandbls
-Encoding: 223 223 130
+Encoding: 158 223 130
 GlifName: germandbls
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<518.253 707.37> 0 21G<256 384> 772 120<562 666.085> 1304 120<447.553 662.008>
 VStem: 256 128<0 1239.44> 724 128<953.364 1234.83> 800 128<217.535 647.499>
 LayerCount: 5
-Back
 Fore
 SplineSet
 730 833 m 1x7c
@@ -40,6 +39,4 @@ SplineSet
  742.79971591 1492 848 1387.04971591 848 1236 c 4
  848 1084.95028409 742.79971591 980 592 980 c 1028
 EndSplineSet
-Layer: 3
-Layer: 4
 EndChar

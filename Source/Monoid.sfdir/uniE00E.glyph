@@ -1,5 +1,5 @@
 StartChar: uniE00E
-Encoding: 57358 57358 597
+Encoding: -1 57358 597
 GlifName: s.alt
 Width: 1920
 VWidth: 0
@@ -47,7 +47,4 @@ SplineSet
 EndSplineSet
 Fore
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

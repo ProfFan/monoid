@@ -1,12 +1,11 @@
 StartChar: lessequal
-Encoding: 8804 8804 567
+Encoding: 603 8804 567
 GlifName: lessequal
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 132 120<128 1024>
 LayerCount: 5
-Back
 Fore
 SplineSet
 1024 252 m 1
@@ -25,7 +24,4 @@ SplineSet
  274 773 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

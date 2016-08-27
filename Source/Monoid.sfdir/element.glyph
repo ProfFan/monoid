@@ -1,12 +1,11 @@
 StartChar: element
-Encoding: 8712 8712 773
+Encoding: 595 8712 772
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: -16 120<412.311 890.998> 648 120<240 768> 1304 120<410.775 861.234>
 VStem: 112 128<332.957 648 768 1085.18>
 LayerCount: 5
-Back
 Fore
 SplineSet
 896 131 m 1
@@ -28,7 +27,5 @@ SplineSet
  287 218 378 104 555 104 c 0
  664 104 788 116 896 131 c 1
 EndSplineSet
-Layer: 2
-Layer: 3
-Layer: 4
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: rho
-Encoding: 961 961 536
+Encoding: 434 961 536
 GlifName: rho
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<478.566 703.675> 920 120<479.721 702.659>
 VStem: 256 128<-384 91 175.029 811.114> 800 128<221.117 805.136>
 LayerCount: 5
-Back
 Fore
 SplineSet
 596 920 m 0
@@ -33,7 +32,4 @@ SplineSet
  327 948 438 1040 596 1040 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

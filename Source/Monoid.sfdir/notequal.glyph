@@ -1,5 +1,5 @@
 StartChar: notequal
-Encoding: 8800 8800 569
+Encoding: 601 8800 569
 GlifName: notequal
 Width: 1024
 VWidth: -128
@@ -36,7 +36,4 @@ SplineSet
  546 380 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

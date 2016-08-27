@@ -1,11 +1,10 @@
 StartChar: greatergreaterequal
-Encoding: 1114258 -1 753
+Encoding: 755 -1 752
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 260 120<-416 768> 772 120<-416 768>
 LayerCount: 5
-Back
 Fore
 SplineSet
 -1157 571 m 5
@@ -36,7 +35,4 @@ SplineSet
  -389 571 l 5
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

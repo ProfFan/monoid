@@ -1,5 +1,5 @@
 StartChar: Eth
-Encoding: 208 208 115
+Encoding: 143 208 115
 GlifName: E_th
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: 0 120<384 664.842> 644 120<128 256 384 640> 1288 120<384 664.842>
 VStem: 256 128<120 644 764 1288> 912 128<396.93 1011.07>
 CounterMasks: 1 e0
 LayerCount: 5
-Back
 Fore
 SplineSet
 912 704 m 0
@@ -37,7 +36,4 @@ SplineSet
  474 1408 l 2
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,5 +1,5 @@
 StartChar: hcircumflex
-Encoding: 293 293 221
+Encoding: 228 293 221
 GlifName: hcircumflex
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 0 21G<256 384 768 896> 792 120<488.173 688.755>
 VStem: 256 128<0 715.099 784 1152> 768 128<0 713.255>
 LayerCount: 5
-Back
 Fore
 SplineSet
 596 912 m 0
@@ -37,7 +36,4 @@ SplineSet
  497 1536 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

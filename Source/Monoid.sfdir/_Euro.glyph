@@ -1,5 +1,5 @@
 StartChar: Euro
-Encoding: 8364 8364 429
+Encoding: 585 8364 429
 GlifName: E_uro
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<524.979 892.249> 512 120<127 243 373 768> 776 120<127 243 372 768> 1304 120<534.369 866>
 VStem: 243 123<311.91 512 632 776 896 1077.3>
 LayerCount: 5
-Back
 Fore
 SplineSet
 896 117 m 1
@@ -37,7 +36,4 @@ SplineSet
  731 104 814 110 896 117 c 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

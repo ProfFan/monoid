@@ -1,5 +1,5 @@
 StartChar: l.zstyle
-Encoding: 1114151 -1 643
+Encoding: 648 -1 642
 GlifName: l.zstyle
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<677.032 894.027> 1288 120<256 512>
 VStem: 512 128<141.858 1288>
 LayerCount: 5
-Back
 Fore
 SplineSet
 896 -2 m 1
@@ -25,7 +24,4 @@ SplineSet
  896 -2 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

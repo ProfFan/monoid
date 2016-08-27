@@ -1,5 +1,5 @@
 StartChar: ordfeminine
-Encoding: 170 170 527
+Encoding: 105 170 527
 GlifName: ordfeminine
 Width: 1024
 VWidth: 0
@@ -126,5 +126,4 @@ SplineSet
  640 835 l 5
  630 835 l 5
 EndSplineSet
-Layer: 4
 EndChar

@@ -1,5 +1,5 @@
 StartChar: beta
-Encoding: 946 946 551
+Encoding: 419 946 551
 GlifName: beta
 Width: 1024
 VWidth: 0
@@ -53,7 +53,4 @@ SplineSet
  384 128 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

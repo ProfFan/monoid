@@ -1,12 +1,11 @@
 StartChar: equaltypeliga
-Encoding: 1114142 -1 774
+Encoding: 639 -1 773
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 132 120<-1536 640> 516 120<-1536 640> 900 120<-1536 640>
 CounterMasks: 1 e0
 LayerCount: 5
-Back
 Fore
 SplineSet
 -1536 132 m 1
@@ -25,7 +24,5 @@ SplineSet
  640 900 l 1
  -1536 900 l 1
 EndSplineSet
-Layer: 2
-Layer: 3
-Layer: 4
+Validated: 1
 EndChar

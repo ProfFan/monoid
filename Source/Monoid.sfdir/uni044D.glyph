@@ -1,5 +1,5 @@
 StartChar: uni044D
-Encoding: 1101 1101 379
+Encoding: 526 1101 379
 GlifName: uni044D_
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<297.825 680.142> 512 120<384 798> 920 120<301.44 680.142>
 VStem: 800 128<242.037 512 632 781.963>
 LayerCount: 5
-Back
 Fore
 SplineSet
 928 512 m 0
@@ -30,7 +29,4 @@ SplineSet
  926 738 928 633 928 512 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

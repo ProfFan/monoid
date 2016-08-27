@@ -1,12 +1,11 @@
 StartChar: guillemotleft
-Encoding: 171 171 313
+Encoding: 106 171 313
 GlifName: guillemotleft
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 1019 20G<434.035 479.588 818.035 863.588>
 LayerCount: 5
-Back
 Fore
 SplineSet
 253 581 m 1
@@ -29,7 +28,4 @@ SplineSet
  637 581 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

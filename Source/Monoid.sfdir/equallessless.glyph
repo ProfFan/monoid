@@ -1,11 +1,10 @@
 StartChar: equallessless
-Encoding: 1114259 -1 754
+Encoding: 756 -1 753
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 260 120<-1664 -480> 772 120<-1664 -480>
 LayerCount: 5
-Back
 Fore
 SplineSet
 261 571 m 1
@@ -36,7 +35,4 @@ SplineSet
  -507 571 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

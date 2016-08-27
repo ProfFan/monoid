@@ -1,11 +1,10 @@
 StartChar: equal.wide
-Encoding: 1114277 -1 771
+Encoding: 771 -1 770
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 260 120<128 1024> 772 120<128 1024>
 LayerCount: 5
-Back
 Fore
 SplineSet
 128 380 m 5
@@ -20,7 +19,4 @@ SplineSet
  128 892 l 5
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

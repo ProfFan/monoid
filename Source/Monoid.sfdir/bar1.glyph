@@ -1,12 +1,11 @@
 StartChar: bar1
-Encoding: 1114134 -1 627
+Encoding: 631 -1 626
 GlifName: bar1
 Width: 1024
 VWidth: 0
 Flags: W
 VStem: 640 128<-128 1536>
 LayerCount: 5
-Back
 Fore
 SplineSet
 768 1536 m 1
@@ -16,7 +15,4 @@ SplineSet
  768 1536 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

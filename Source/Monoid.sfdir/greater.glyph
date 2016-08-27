@@ -1,11 +1,10 @@
 StartChar: greater
-Encoding: 62 62 84
+Encoding: 30 62 84
 GlifName: greater
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 5
-Back
 Fore
 SplineSet
 763 571 m 1
@@ -19,9 +18,6 @@ SplineSet
  763 571 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 Substitution2: "Single Substitution lookup 93 subtable" greater2
 Substitution2: "Single Substitution lookup 92 subtable" greater1
 Substitution2: "Single Substitution lookup 61 subtable" ligaequalarrow

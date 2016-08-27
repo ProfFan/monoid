@@ -1,12 +1,11 @@
 StartChar: z
-Encoding: 122 122 25
+Encoding: 90 122 25
 GlifName: z
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 0 120<401 896> 904 120<276 731>
 LayerCount: 5
-Back
 Fore
 SplineSet
 276 904 m 1
@@ -24,9 +23,6 @@ SplineSet
  276 904 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 Position2: "Single Positioning lookup 19 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=0 dy=0 dh=0 dv=0

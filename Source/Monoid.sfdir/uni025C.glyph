@@ -1,5 +1,5 @@
 StartChar: uni025C
-Encoding: 604 604 524
+Encoding: 355 604 524
 GlifName: uni025C_
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<256 702.476> 512 120<384 705.625> 920 120<280.521 713.656>
 VStem: 800 128<197.441 420.945 706.629 843.639>
 LayerCount: 5
-Back
 Fore
 SplineSet
 775 563 m 1
@@ -33,7 +32,4 @@ SplineSet
  775 563 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

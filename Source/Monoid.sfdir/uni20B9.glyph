@@ -1,5 +1,5 @@
 StartChar: uni20B9
-Encoding: 8377 8377 655
+Encoding: 586 8377 654
 GlifName: uni20B_9
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 0 21G<731.656 905> 640 120<414 627.336> 1024 120<276 726 877 1004> 1288 120<276 626.057 753 1004>
 VStem: 749 128<888.688 1024>
 LayerCount: 5
-Back
 Fore
 SplineSet
 236 1024 m 1
@@ -36,7 +35,4 @@ SplineSet
  236 1024 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

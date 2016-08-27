@@ -1,11 +1,10 @@
 StartChar: asterisk.multi
-Encoding: 1114147 -1 639
+Encoding: 644 -1 638
 GlifName: asterisk.multi
 Width: 1024
 VWidth: 0
 Flags: W
 LayerCount: 5
-Back
 Fore
 SplineSet
 725 640 m 1
@@ -35,7 +34,4 @@ SplineSet
  725 640 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

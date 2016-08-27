@@ -1,12 +1,11 @@
 StartChar: Nacute.sq
-Encoding: 1114219 -1 711
+Encoding: 716 -1 710
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 0 21G<128 256 883.885 1024> 1408 21G<488 638.969>
 VStem: 128 128<0 1040> 896 128<240 1280>
 LayerCount: 5
-Back
 Fore
 SplineSet
 256 0 m 1
@@ -29,7 +28,4 @@ SplineSet
  488 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

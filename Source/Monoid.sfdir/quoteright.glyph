@@ -1,5 +1,5 @@
 StartChar: quoteright
-Encoding: 8217 8217 423
+Encoding: 571 8217 423
 GlifName: quoteright
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 768 120<384 473.335> 1168 240<384 512>
 VStem: 384 256<1168 1408> 512 128<928.32 1168>
 LayerCount: 5
-Back
 Fore
 SplineSet
 384 1408 m 1xe0
@@ -35,6 +34,4 @@ SplineSet
  640 1408 l 5
  640 1175 l 6
 EndSplineSet
-Layer: 3
-Layer: 4
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uniE0B1
-Encoding: 57521 57521 604
+Encoding: 615 57521 604
 GlifName: uniE_0B_1
 Width: 1024
 VWidth: 2048
@@ -22,7 +22,4 @@ SplineSet
  729 704 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

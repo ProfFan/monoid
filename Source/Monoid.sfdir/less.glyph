@@ -1,5 +1,5 @@
 StartChar: less
-Encoding: 60 60 82
+Encoding: 28 60 82
 GlifName: less
 Width: 1024
 VWidth: 0
@@ -35,8 +35,6 @@ SplineSet
  295 576 l 5
  896 1002 l 1029
 EndSplineSet
-Layer: 3
-Layer: 4
 Substitution2: "Single Substitution lookup 95 subtable" less2
 Substitution2: "Single Substitution lookup 94 subtable" less1
 Substitution2: "Single Substitution lookup 89 subtable" rangeless

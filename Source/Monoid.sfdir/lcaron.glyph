@@ -1,5 +1,5 @@
 StartChar: lcaron
-Encoding: 318 318 277
+Encoding: 253 318 277
 GlifName: lcaron
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<549.032 768> 1024 21G<768 896> 1388 20G<384 512 768 896>
 VStem: 384 128<141.858 1408> 768 128<1024 1408>
 LayerCount: 5
-Back
 Fore
 SplineSet
 768 -11 m 1
@@ -28,7 +27,4 @@ SplineSet
  768 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

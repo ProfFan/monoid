@@ -1,5 +1,5 @@
 StartChar: uni266E
-Encoding: 9838 9838 610
+Encoding: 608 9838 610
 GlifName: uni266E_
 Width: 1024
 VWidth: 0
@@ -62,7 +62,4 @@ SplineSet
  896 1109 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

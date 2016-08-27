@@ -1,5 +1,5 @@
 StartChar: zero.dot
-Encoding: 1114148 -1 640
+Encoding: 645 -1 639
 GlifName: zero.dot
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: -18 124<483.134 668.866> 640 128<512 640> 1302 124<483.134 668.866>
 VStem: 253 124<324.71 1083.29> 512 128<640 768> 775 124<324.71 1083.29>
 CounterMasks: 1 fc
 LayerCount: 5
-Back
 Fore
 SplineSet
 512 768 m 1
@@ -36,7 +35,4 @@ SplineSet
  720 1232 666 1302 576 1302 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

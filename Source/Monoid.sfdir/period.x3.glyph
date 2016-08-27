@@ -1,5 +1,5 @@
 StartChar: period.x3
-Encoding: 1114136 -1 629
+Encoding: 633 -1 628
 GlifName: period2
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: 0 240<-1536 -1280 -640 -384 256 512>
 VStem: -1536 256<0 240> -640 256<0 240> 256 256<0 240>
 CounterMasks: 1 70
 LayerCount: 5
-Back
 Fore
 SplineSet
 -1536 240 m 1
@@ -28,7 +27,4 @@ SplineSet
  256 240 l 5
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

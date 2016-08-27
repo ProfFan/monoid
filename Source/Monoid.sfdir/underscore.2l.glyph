@@ -1,11 +1,10 @@
 StartChar: underscore.2l
-Encoding: 1114263 -1 758
+Encoding: 760 -1 757
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: -120 120<128 896>
 LayerCount: 5
-Back
 Fore
 SplineSet
 128 0 m 5
@@ -15,7 +14,4 @@ SplineSet
  128 0 l 5
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

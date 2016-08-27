@@ -1,5 +1,5 @@
 StartChar: Iotatonos
-Encoding: 906 906 561
+Encoding: 382 906 561
 GlifName: I_otatonos
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: 0 120<256 512 640 896> 1288 120<256 512 640 896>
 VStem: 512 128<120 1288>
 LayerCount: 5
-Back
 Fore
 SplineSet
 80 1438 m 1
@@ -30,7 +29,4 @@ SplineSet
  896 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,5 +1,5 @@
 StartChar: parenleft
-Encoding: 40 40 63
+Encoding: 8 40 63
 GlifName: parenleft
 Width: 1024
 VWidth: 0
@@ -47,7 +47,5 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Layer: 3
-Layer: 4
 Substitution2: "Single Substitution lookup 2 subtable" parenleft.shrug
 EndChar

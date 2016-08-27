@@ -1,5 +1,5 @@
 StartChar: B
-Encoding: 66 66 30
+Encoding: 34 66 30
 GlifName: B_
 Width: 1024
 VWidth: 0
@@ -123,7 +123,6 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Layer: 4
 Position2: "Single Positioning lookup 23 subtable" dx=128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 21 subtable" dx=-128 dy=0 dh=0 dv=0
 Position2: "Single Positioning lookup 20 subtable" dx=0 dy=0 dh=0 dv=0

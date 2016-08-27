@@ -1,5 +1,5 @@
 StartChar: uni03A9
-Encoding: 937 937 550
+Encoding: 410 937 550
 GlifName: uni03A_9
 Width: 1024
 VWidth: 0
@@ -80,5 +80,4 @@ SplineSet
  115.255859375 557.4921875 112 695.390625 112 832 c 0
  112 1057 l 1
 EndSplineSet
-Layer: 4
 EndChar

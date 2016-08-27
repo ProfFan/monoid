@@ -1,5 +1,5 @@
 StartChar: IJ
-Encoding: 306 306 234
+Encoding: 241 306 234
 GlifName: I_J_
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -271 120<387.67 783.682> 0 120<128 256 384 512> 1160 120<128 256 384 512>
 VStem: 128 384<0 120 1160 1280> 896 128<-21.8387 1280>
 LayerCount: 5
-Back
 Fore
 SplineSet
 896 257 m 2
@@ -36,7 +35,4 @@ SplineSet
  512 1280 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

@@ -1,12 +1,11 @@
 StartChar: Ecaron.sq
-Encoding: 1114208 -1 700
+Encoding: 705 -1 699
 Width: 1024
 VWidth: 0
 Flags: W
 HStem: 0 120<384 1024> 648 120<384 896> 1160 120<384 1024> 1408 21G<473.797 678.203>
 VStem: 256 128<120 648 768 1160>
 LayerCount: 5
-Back
 Fore
 SplineSet
 256 1280 m 5
@@ -32,7 +31,4 @@ SplineSet
  497 1408 l 1
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar

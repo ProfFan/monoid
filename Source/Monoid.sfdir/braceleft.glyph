@@ -1,5 +1,5 @@
 StartChar: braceleft
-Encoding: 123 123 91
+Encoding: 91 123 91
 GlifName: braceleft
 Width: 1024
 VWidth: 0
@@ -8,7 +8,6 @@ HStem: -144 120<731.557 896> 643 120<256 426.155> 1430 120<731.557 896>
 VStem: 512 128<58.6177 562.643 843.357 1347.38>
 CounterMasks: 1 e0
 LayerCount: 5
-Back
 Fore
 SplineSet
 481 698 m 1
@@ -55,6 +54,4 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Layer: 3
-Layer: 4
 EndChar

@@ -1,5 +1,5 @@
 StartChar: eight
-Encoding: 56 56 78
+Encoding: 24 56 78
 GlifName: eight
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<456.7 695.3> 654 120<469.94 682.06> 1304 120<464.236 687.764>
 VStem: 224 128<218.77 533.589> 244 128<885.787 1202.65> 780 128<885.787 1202.65> 800 128<218.77 533.589>
 LayerCount: 5
-Back
 Fore
 SplineSet
 576 1304 m 0xec
@@ -33,7 +32,6 @@ SplineSet
  800 526 732 654 576 654 c 0
 EndSplineSet
 Validated: 1
-Layer: 2
 Layer: 3
 SplineSet
 576 1364 m 0

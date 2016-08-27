@@ -1,5 +1,5 @@
 StartChar: six
-Encoding: 54 54 76
+Encoding: 22 54 76
 GlifName: six
 Width: 1024
 VWidth: 0
@@ -7,7 +7,6 @@ Flags: W
 HStem: -16 120<475.787 709.364> 792 120<480.311 708.108>
 VStem: 256 128<210.189 685.189> 800 128<210.238 685.311>
 LayerCount: 5
-Back
 Fore
 SplineSet
 691 1375 m 5
@@ -61,7 +60,5 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Layer: 3
-Layer: 4
 Substitution2: "'ss13' Style Set 13 lookup 114 subtable" six.round
 EndChar

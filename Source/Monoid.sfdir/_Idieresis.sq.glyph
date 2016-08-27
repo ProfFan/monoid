@@ -1,5 +1,5 @@
 StartChar: Idieresis.sq
-Encoding: 1114186 -1 678
+Encoding: 683 -1 677
 Width: 1024
 VWidth: 0
 Flags: W
@@ -7,7 +7,6 @@ HStem: 0 120<256 512 640 896> 1160 120<256 512 640 896> 1424 224<269.423 434.577
 VStem: 240 224<1453.42 1618.58> 512 128<120 1160> 688 224<1453.42 1618.58>
 CounterMasks: 1 1c
 LayerCount: 5
-Back
 Fore
 SplineSet
 896 1280 m 5
@@ -35,7 +34,4 @@ SplineSet
  240 1602 286 1648 352 1648 c 4
 EndSplineSet
 Validated: 1
-Layer: 2
-Layer: 3
-Layer: 4
 EndChar
